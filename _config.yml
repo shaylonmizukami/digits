@@ -2,7 +2,7 @@ title:
 description: 
 google_analytics:
 show_downloads: true
-theme: theme: jekyll-theme-slate
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
